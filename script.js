@@ -1,1 +1,1 @@
-// Scripts and functions on this page are the creation of 0xR3TR0. All rights reserved.
+// Scripts and functions on this page are the creation of 0xR3TR0. All rights reserved. 
